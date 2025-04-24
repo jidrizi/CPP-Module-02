@@ -1,6 +1,8 @@
 # Non git ignore template stuff
+bin
 Fixed
 Fixed2
+Fixed3
 
 # Prerequisites
 *.d
